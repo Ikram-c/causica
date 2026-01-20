@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../cle_win"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

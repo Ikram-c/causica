@@ -1,4 +1,4 @@
-from causica.datasets.causica_dataset_format.load import (
+from causica_source.datasets.causica_dataset_format.load import (
     CAUSICA_DATASETS_PATH,
     CounterfactualWithEffects,
     DataEnum,
@@ -13,4 +13,4 @@ from causica.datasets.causica_dataset_format.load import (
     tensordict_from_variables_metadata,
     tensordict_to_tensor,
 )
-from causica.datasets.causica_dataset_format.save import save_data, save_dataset
+from causica_source.datasets.causica_dataset_format.save import save_data, save_dataset
